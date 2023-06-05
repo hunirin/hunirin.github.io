@@ -26,10 +26,6 @@ author: GwangHun Lee
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
-#다크 모드 토글 버튼 추가
-dark_theme_toggle: true
-after_footer_scripts:
-  - /assets/js/dark-theme.js
 
 ################
 # --- Logo --- #
